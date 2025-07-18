@@ -48,7 +48,7 @@ import canaraLogo from './assets/education_logo/canaraLogo.png';
 
 //Certification Section Logo's
 import simplilearnLogo from "./assets/certifications_logo/simplilearn_logo.png";
-import nptelLogo from "./assets/certifications_logo/nptel_logo.png";
+import nptelLogo from "./assets/certifications_logo/nptel_Logo.png";
 import powerBiLogo from "./assets/certifications_logo/powerbi_workshop_logo.png";
 
 
