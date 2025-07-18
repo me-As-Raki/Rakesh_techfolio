@@ -54,7 +54,7 @@ import powerBiLogo from "./assets/certifications_logo/powerbi_workshop_logo.png"
 
 // Project Section Logo's
 
-import portfolioLogo from "./assets/project_logo/portfolio.png";
+import portfolioLogo from "./assets/project_logo/portfolio1.png";
 import whatsappLogo from "./assets/project_logo/whatsappLogo.png";
 import lostFoundLogo from "./assets/project_logo/lostFoundLogo.png";
 import eshopLogo from "./assets/project_logo/eshopLogo.png";
@@ -324,7 +324,7 @@ export const projects = [
     "A sleek and interactive personal portfolio website showcasing my projects, skills, certifications, and resume. Built using modern frontend technologies with smooth animations and responsive design.",
   tags: ["React", "Tailwind CSS", "Framer Motion", "Responsive Design"],
   github: "https://github.com/Rahul-B47/personal_portfolio", // update if needed
-  webapp: "https://rahulrakesh-portfolio.onrender.com/", // replace with real deployed link
+  webapp: "https://rahulworks-dev.onrender.com", // replace with real deployed link
   image: portfolioLogo, // replace with actual image variable
 },
   {
