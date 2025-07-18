@@ -54,7 +54,7 @@ import powerBiLogo from "./assets/certifications_logo/powerbi_workshop_logo.png"
 
 // Project Section Logo's
 
-import portfolioLogo from './assets/project_logo/portfolio_logo.png';
+import portfolioLogo from "./assets/project_logo/portfolio.png";
 import whatsappLogo from "./assets/project_logo/whatsappLogo.png";
 import lostFoundLogo from "./assets/project_logo/lostFoundLogo.png";
 import eshopLogo from "./assets/project_logo/eshopLogo.png";
