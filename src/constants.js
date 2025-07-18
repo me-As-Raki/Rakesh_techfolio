@@ -60,7 +60,7 @@ import lostFoundLogo from "./assets/project_logo/lostFoundLogo.png";
 import eshopLogo from "./assets/project_logo/eshopLogo.png";
 import bmiLogo from "./assets/project_logo/bmiLogo.png";
 import tictactoeLogo from "./assets/project_logo/tictactoeLogo.png";
-import { render } from 'react-dom';
+
 
 
 export const SkillsInfo = [
