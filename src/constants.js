@@ -11,8 +11,7 @@ import expressjsLogo from './assets/tech_logo/express.png';
 import campuspulseLogo from "./assets/project_logo/campuspulseLogo.png";
 import geminiLogo from "./assets/project_logo/geminiLogo.png";
 
-// import careforhealthLogo from "./assets/careforhealthLogo.png";
-// import portfolioLogo from "./assets/portfolioLogo.png";
+
 
  // ✅ or .jpg, .svg — match the actual file
 
@@ -142,7 +141,9 @@ export const SkillsInfo = [
 ];
 
 export const certifications = [
-  // {
+  // 
+  {
+    id: 2,{
   //   id: 1,
   //   title: "Programming in Java",
   //   issuer: "NPTEL",
@@ -154,8 +155,6 @@ export const certifications = [
   //   certificateLink: "https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S96140045130652942.pdf", // Replace with real link if available
   //   downloadLink: "/certificates/nptel_java.pdf", // Replace with actual file
   // },
-  {
-    id: 2,
     title: "JavaScript for Beginners",
     issuer: "Simplilearn SkillUp",
     date: "June 2024",
