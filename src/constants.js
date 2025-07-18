@@ -322,7 +322,7 @@ export const projects = [
   description:
     "A sleek and interactive personal portfolio website showcasing my projects, skills, certifications, and resume. Built using modern frontend technologies with smooth animations and responsive design.",
   tags: ["React", "Tailwind CSS", "Framer Motion", "Responsive Design"],
-  github: "https://github.com/Rahul-B47/My_Final_Portfolio", // update if needed
+  github: "https://github.com/Rahul-B47/personal_portfolio", // update if needed
   webapp: "https://rahulrakesh-portfolio.onrender.com/", // replace with real deployed link
   image: portfolioLogo, // replace with actual image variable
 },
