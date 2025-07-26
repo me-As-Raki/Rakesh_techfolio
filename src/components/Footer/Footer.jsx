@@ -14,7 +14,7 @@ const Footer = () => {
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
-        <h2 className="text-xl font-semibold text-purple-500">Rahul</h2>
+        <h2 className="text-xl font-semibold text-purple-500">Rakesh</h2>
 
         {/* Navigation Links - Responsive */}
         <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mt-4">
@@ -41,12 +41,12 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaPhoneAlt className="w-4 h-4"/>, link: "tel:+919108473189" },
-            { icon: <FaTwitter />, link: "https://x.com/Gnx__Smokey" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/rahul-poojary-a47aab260/" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/itx._rah.in" },
-            { icon: <FaWhatsapp />, link: "https://wa.me/+919108473189" },
-            { icon: <MdOutlineEmail />, link: "mailto:rahulrakeshpoojary0@gmail.com" },
+            { icon: <FaPhoneAlt className="w-4 h-4"/>, link: "tel:+917795292573" },
+            { icon: <FaTwitter />, link: "https://x.com/raksh_poojaryy" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/rakesh-poojaryy/" },
+            { icon: <FaInstagram />, link: "https://www.instagram.com/rakesh_.poojaryy" },
+            { icon: <FaWhatsapp />, link: "https://wa.me/+917795292573" },
+            { icon: <MdOutlineEmail />, link: "mailto:rakeshpoojary850@gmail.com" },
             
           ].map((item, index) => (
             <a
@@ -63,7 +63,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Rahul. All rights reserved.
+          © 2025 Rakesh. All rights reserved.
         </p>
       </div>
     </footer>

@@ -45,7 +45,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
-          <span className="text-white">Rahul</span>
+          <span className="text-white">Rakesh</span>
           <span className="text-[#8245ec]">/</span>
           <span className="text-white">G</span>
           <span className="text-[#8245ec]">&gt;</span>
@@ -67,7 +67,7 @@ const Navbar = () => {
           ))}
           <li className="flex space-x-4 ml-6">
             <a
-              href="https://github.com/Rahul-B47" // ✅ Update your GitHub link
+              href="https://github.com/me-As-Raki" 
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#8245ec] text-white"
@@ -75,7 +75,7 @@ const Navbar = () => {
               <FaGithub size={20} />
             </a>
             <a
-              href="https://www.linkedin.com/in/rahul-poojary-a47aab260/"
+              href="https://www.linkedin.com/in/rakesh-poojaryy/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#8245ec] text-white"
@@ -88,7 +88,7 @@ const Navbar = () => {
         {/* Mobile Icons */}
         <div className="flex items-center space-x-4 md:hidden">
           <a
-            href="https://github.com/Rahul-B47"
+            href="https://github.com/me-As-Raki"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -96,7 +96,7 @@ const Navbar = () => {
             <FaGithub size={20} />
           </a>
           <a
-            href="https://www.linkedin.com/in/rahul-poojary-a47aab260/"
+            href="https://www.linkedin.com/in/rakesh-poojaryy/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -146,7 +146,7 @@ const Navbar = () => {
     {/* Social Icons in Mobile */}
     <li className="flex space-x-4 pt-6 border-t border-gray-700">
       <a
-        href="https://github.com/Rahul-B47"
+        href="https://github.com/me-As-Raki"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-300 hover:text-[#8245ec]"
@@ -154,7 +154,7 @@ const Navbar = () => {
         <FaGithub size={22} />
       </a>
       <a
-        href="https://www.linkedin.com/in/rahul-poojary-a47aab260/"
+        href="https://www.linkedin.com/in/rakesh-poojaryy/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-300 hover:text-[#8245ec]"

@@ -14,7 +14,7 @@ const About = () => {
         <div className="md:w-full text-center md:text-left">
           {/* Greeting */}
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-2 leading-tight text-center">
-            Hi, I'm Rahul
+            Hi, I'm Rakesh
           </h1>
 
           {/* Typing Role Text */}
@@ -48,7 +48,7 @@ const About = () => {
           {/* Resume Button */}
           <div className="flex justify-center">
             <a
-              href="https://drive.google.com/file/d/1cA_YPklyNpFWwNw1l_M3o23nRw7hZ6pv/view?usp=sharing"
+              href="https://drive.google.com/file/d/1HEGfmzpFLBXplmgkzedgbXTTO78RZXKL/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="items-center inline-block text-white py-3 px-8 rounded-full mt-2 sm:mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -61,27 +61,6 @@ const About = () => {
             </a>
           </div>
         </div>
-
-        {/* Optional Right Side (Profile Image with Tilt Effect) */}
-        {/*
-        <div className="md:w-1/2 flex justify-center md:justify-end mt-10 md:mt-0">
-          <Tilt
-            className="w-48 h-48 sm:w-64 sm:h-64 md:w-[30rem] md:h-[30rem] border-4 border-purple-700 rounded-full"
-            tiltMaxAngleX={20}
-            tiltMaxAngleY={20}
-            perspective={1000}
-            scale={1.05}
-            transitionSpeed={1000}
-            gyroscope={true}
-          >
-            <img
-              src={profileImage}
-              alt="Rahulrakesh Poojary"
-              className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
-            />
-          </Tilt>
-        </div>
-        */}
       </div>
     </section>
   );
