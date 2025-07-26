@@ -51,11 +51,17 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 ---
 
-## 📷 Live Preview
+## 🚀 Live Preview · [Rakesh Techfolio](https://rakesh-techfolio.onrender.com)
 
-👉 [Visit My Live Portfolio](https://rakesh-techfolio.onrender.com)  
+> 📸 Explore the portfolio in action!
+
+🎯 **Tech Stack**: React • TailwindCSS • Vite  
+📱 **Responsive** | ⚡ **Fast Load** | 🎨 **Polished Design**
+
+🔗 Click here to view 👉 **[https://rakesh-techfolio.onrender.com](https://rakesh-techfolio.onrender.com)**
 
 ---
+
 
 ## 📬 Contact
 
